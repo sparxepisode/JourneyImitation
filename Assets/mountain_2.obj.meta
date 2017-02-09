@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 0344e07f065c0a342aaa74a4136b7dca
+timeCreated: 1459358181
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCone10
+    100004: pCone11
+    100006: pCone12
+    100008: pCone13
+    100010: pCone14
+    100012: pCone15
+    100014: pCone16
+    100016: pCone5
+    100018: pCone6
+    100020: pCone7
+    100022: pCone8
+    100024: pCone9
+    100026: pPyramid1
+    100028: pPyramid3
+    100030: pPyramid4
+    100032: pPyramid6
+    100034: pPyramid7
+    400000: //RootNode
+    400002: pCone10
+    400004: pCone11
+    400006: pCone12
+    400008: pCone13
+    400010: pCone14
+    400012: pCone15
+    400014: pCone16
+    400016: pCone5
+    400018: pCone6
+    400020: pCone7
+    400022: pCone8
+    400024: pCone9
+    400026: pPyramid1
+    400028: pPyramid3
+    400030: pPyramid4
+    400032: pPyramid6
+    400034: pPyramid7
+    2300000: pCone10
+    2300002: pCone11
+    2300004: pCone12
+    2300006: pCone13
+    2300008: pCone14
+    2300010: pCone15
+    2300012: pCone16
+    2300014: pCone5
+    2300016: pCone6
+    2300018: pCone7
+    2300020: pCone8
+    2300022: pCone9
+    2300024: pPyramid1
+    2300026: pPyramid3
+    2300028: pPyramid4
+    2300030: pPyramid6
+    2300032: pPyramid7
+    3300000: pCone10
+    3300002: pCone11
+    3300004: pCone12
+    3300006: pCone13
+    3300008: pCone14
+    3300010: pCone15
+    3300012: pCone16
+    3300014: pCone5
+    3300016: pCone6
+    3300018: pCone7
+    3300020: pCone8
+    3300022: pCone9
+    3300024: pPyramid1
+    3300026: pPyramid3
+    3300028: pPyramid4
+    3300030: pPyramid6
+    3300032: pPyramid7
+    4300000: pCone10
+    4300002: pCone11
+    4300004: pCone12
+    4300006: pCone13
+    4300008: pCone14
+    4300010: pCone15
+    4300012: pCone16
+    4300014: pCone5
+    4300016: pCone6
+    4300018: pCone7
+    4300020: pCone8
+    4300022: pCone9
+    4300024: pPyramid1
+    4300026: pPyramid3
+    4300028: pPyramid4
+    4300030: pPyramid6
+    4300032: pPyramid7
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

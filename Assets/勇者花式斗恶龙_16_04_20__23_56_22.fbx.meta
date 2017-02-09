@@ -1,0 +1,2810 @@
+fileFormatVersion: 2
+guid: 347919a86f32be3419de290767dd04d8
+timeCreated: 1461168100
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: audioTrack
+    100002: audioTrack 1
+    100004: backClaw
+    100006: backClaw 1
+    100008: backClaw 2
+    100010: bell
+    100012: bell 1
+    100014: bell 1 1
+    100016: bell 2
+    100018: bell 3
+    100020: bell 4
+    100022: bell 5
+    100024: bell 6
+    100026: bell 7
+    100028: BG
+    100030: Button
+    100032: Button 1
+    100034: Button 1 1
+    100036: Button 2
+    100038: Button 2 1
+    100040: Button 3
+    100042: Button 4
+    100044: Button1
+    100046: Camera
+    100048: Camera 1
+    100050: Camera 1 1
+    100052: Camera 1 1 1
+    100054: Camera 1 2
+    100056: Camera 1 3
+    100058: Camera 1 4
+    100060: Camera 1 5
+    100062: Camera 2
+    100064: Camera 2 1
+    100066: Camera 2 1 1
+    100068: Camera 2 2
+    100070: Camera 2 3
+    100072: Camera 3
+    100074: Camera 3 1
+    100076: Camera 4
+    100078: Camera 5
+    100080: Camera 6
+    100082: Camera 7
+    100084: Canvas
+    100086: Canvas 1
+    100088: Canvas 2
+    100090: Canvas 3
+    100092: Canvas 4
+    100094: Canvas 5
+    100096: Canvas 6
+    100098: Canvas 7
+    100100: Canvas 8
+    100102: chain
+    100104: chainLight
+    100106: chainLight 1
+    100108: chainLight:Mesh
+    100110: chameleon
+    100112: character01
+    100114: character01 1
+    100116: character01 2
+    100118: character01 3
+    100120: character01 4
+    100122: character01:bell
+    100124: character01:bell 1
+    100126: character01:bell 2
+    100128: character01:head
+    100130: character01:head 1
+    100132: character01:head 2
+    100134: character01:hero_body
+    100136: character01:hero_body 1
+    100138: character01:hero_body 2
+    100140: character01:joint1
+    100142: character01:joint1 1
+    100144: character01:joint1 2
+    100146: character01:joint2
+    100148: character01:joint2 1
+    100150: character01:joint2 2
+    100152: character01:joint3
+    100154: character01:joint3 1
+    100156: character01:joint3 2
+    100158: character01:joint4
+    100160: character01:joint4 1
+    100162: character01:joint4 2
+    100164: character01:leftfeet
+    100166: character01:leftfeet 1
+    100168: character01:leftfeet 2
+    100170: character01:leftLeg
+    100172: character01:leftLeg 1
+    100174: character01:leftLeg 2
+    100176: character01:notmove_hero
+    100178: character01:notmove_hero 1
+    100180: character01:notmove_hero 2
+    100182: character01:ribonJoints
+    100184: character01:ribonJoints 1
+    100186: character01:ribonJoints 2
+    100188: character01:rightfeet
+    100190: character01:rightfeet 1
+    100192: character01:rightfeet 2
+    100194: character01:rightLeg
+    100196: character01:rightLeg 1
+    100198: character01:rightLeg 2
+    100200: character01:spare
+    100202: character01:spare 1
+    100204: character01:spare 2
+    100206: character01:spareRibbon
+    100208: character01:spareRibbon 1
+    100210: character01:spareRibbon 2
+    100212: character01_notmove_hero
+    100214: character02:bell
+    100216: character02:bell 1
+    100218: character02:bell 2
+    100220: character02:head
+    100222: character02:head 1
+    100224: character02:head 2
+    100226: character02:hero_body
+    100228: character02:hero_body 1
+    100230: character02:hero_body 2
+    100232: character02:joint1
+    100234: character02:joint1 1
+    100236: character02:joint1 2
+    100238: character02:joint2
+    100240: character02:joint2 1
+    100242: character02:joint2 2
+    100244: character02:joint3
+    100246: character02:joint3 1
+    100248: character02:joint3 2
+    100250: character02:joint4
+    100252: character02:joint4 1
+    100254: character02:joint4 2
+    100256: character02:leftfeet
+    100258: character02:leftfeet 1
+    100260: character02:leftfeet 2
+    100262: character02:leftLeg
+    100264: character02:leftLeg 1
+    100266: character02:leftLeg 2
+    100268: character02:notmove_hero
+    100270: character02:notmove_hero 1
+    100272: character02:ribonJoints
+    100274: character02:ribonJoints 1
+    100276: character02:ribonJoints 2
+    100278: character02:rightfeet
+    100280: character02:rightfeet 1
+    100282: character02:rightfeet 2
+    100284: character02:rightLeg
+    100286: character02:rightLeg 1
+    100288: character02:rightLeg 2
+    100290: character02:spare
+    100292: character02:spare 1
+    100294: character02:spare 2
+    100296: character02:spareRibbon
+    100298: character02:spareRibbon 1
+    100300: character02:spareRibbon 2
+    100302: character03:bell
+    100304: character03:head
+    100306: character03:hero_body
+    100308: character03:joint1
+    100310: character03:joint2
+    100312: character03:joint3
+    100314: character03:joint4
+    100316: character03:leftfeet
+    100318: character03:leftLeg
+    100320: character03:notmove_hero
+    100322: character03:ribonJoints
+    100324: character03:rightfeet
+    100326: character03:rightLeg
+    100328: character03:spare
+    100330: character03:spareRibbon
+    100332: character04:bell
+    100334: character04:head
+    100336: character04:hero_body
+    100338: character04:joint1
+    100340: character04:joint2
+    100342: character04:joint3
+    100344: character04:joint4
+    100346: character04:leftfeet
+    100348: character04:leftLeg
+    100350: character04:notmove_hero
+    100352: character04:ribonJoints
+    100354: character04:rightfeet
+    100356: character04:rightLeg
+    100358: character04:spare
+    100360: character04:spareRibbon
+    100362: characterControl
+    100364: characterControl 1
+    100366: characterControl 2
+    100368: characterControl 3
+    100370: characterControl 4
+    100372: checkbridege
+    100374: cloud 1
+    100376: cloud02
+    100378: crystal
+    100380: crystone01
+    100382: default
+    100384: default 1
+    100386: default 10
+    100388: default 11
+    100390: default 12
+    100392: default 13
+    100394: default 14
+    100396: default 15
+    100398: default 16
+    100400: default 17
+    100402: default 18
+    100404: default 19
+    100406: default 2
+    100408: default 20
+    100410: default 21
+    100412: default 22
+    100414: default 23
+    100416: default 24
+    100418: default 25
+    100420: default 26
+    100422: default 27
+    100424: default 28
+    100426: default 29
+    100428: default 3
+    100430: default 30
+    100432: default 31
+    100434: default 32
+    100436: default 33
+    100438: default 34
+    100440: default 35
+    100442: default 36
+    100444: default 37
+    100446: default 38
+    100448: default 39
+    100450: default 4
+    100452: default 40
+    100454: default 41
+    100456: default 42
+    100458: default 43
+    100460: default 44
+    100462: default 45
+    100464: default 46
+    100466: default 47
+    100468: default 48
+    100470: default 49
+    100472: default 5
+    100474: default 50
+    100476: default 51
+    100478: default 52
+    100480: default 53
+    100482: default 54
+    100484: default 55
+    100486: default 56
+    100488: default 57
+    100490: default 58
+    100492: default 59
+    100494: default 6
+    100496: default 60
+    100498: default 61
+    100500: default 62
+    100502: default 63
+    100504: default 64
+    100506: default 65
+    100508: default 66
+    100510: default 67
+    100512: default 68
+    100514: default 69
+    100516: default 7
+    100518: default 70
+    100520: default 71
+    100522: default 72
+    100524: default 73
+    100526: default 74
+    100528: default 75
+    100530: default 76
+    100532: default 77
+    100534: default 78
+    100536: default 79
+    100538: default 8
+    100540: default 80
+    100542: default 81
+    100544: default 82
+    100546: default 83
+    100548: default 84
+    100550: default 85
+    100552: default 9
+    100554: Directional Light
+    100556: Directional Light 1
+    100558: Directional Light 2
+    100560: Directional Light 3
+    100562: Directional Light 4
+    100564: Directional Light 5
+    100566: Directional Light 6
+    100568: Directional Light 7
+    100570: Directional Light 8
+    100572: elder
+    100574: elder 1
+    100576: electricPole
+    100578: elevater
+    100580: EventSystem
+    100582: EventSystem 1
+    100584: EventSystem 2
+    100586: EventSystem 3
+    100588: EventSystem 4
+    100590: EventSystem 5
+    100592: EventSystem 6
+    100594: EventSystem 7
+    100596: EventSystem 8
+    100598: first
+    100600: firstRobe_drop
+    100602: flow
+    100604: flow 1
+    100606: front1
+    100608: front_claw
+    100610: front_claw 1
+    100612: front_claw 2
+    100614: goBridge
+    100616: group
+    100618: group 1
+    100620: group 2
+    100622: group1
+    100624: group1 1
+    100626: group10
+    100628: group11
+    100630: group2
+    100632: group2 1
+    100634: group5
+    100636: group7
+    100638: group9
+    100640: head
+    100642: head 1
+    100644: head 1 1
+    100646: head 2
+    100648: head 2 1
+    100650: head 3
+    100652: head 3 1
+    100654: head 4
+    100656: head 4 1
+    100658: head 5
+    100660: head 6
+    100662: head 7
+    100664: hearo
+    100666: hearo 1
+    100668: hero_body
+    100670: hero_body 1
+    100672: hero_body 1 1
+    100674: hero_body 2
+    100676: hero_body 3
+    100678: hero_body 4
+    100680: hero_body 5
+    100682: hero_body 6
+    100684: hero_body 7
+    100686: hill02
+    100688: hill02 1
+    100690: hill03
+    100692: hill03 1
+    100694: hill03 2
+    100696: hill04
+    100698: hill05
+    100700: hill06
+    100702: hill07
+    100704: hill08
+    100706: hills
+    100708: hills 1
+    100710: hills 1 1
+    100712: hills 1 1 1
+    100714: hills 1 2
+    100716: hills 1 3
+    100718: hills 1 4
+    100720: hills 1 5
+    100722: hills 2
+    100724: hills 2 1
+    100726: hills 2 1 1
+    100728: hills 2 2
+    100730: hills 2 3
+    100732: hills 3
+    100734: hills 3 1
+    100736: hills 3 1 1
+    100738: hills 3 2
+    100740: hills 3 3
+    100742: hills 4
+    100744: hills 4 1
+    100746: hills 5
+    100748: hills 5 1
+    100750: hills 6
+    100752: hills 7
+    100754: Image
+    100756: Image 1
+    100758: Image01
+    100760: Image01 1
+    100762: Jaw
+    100764: Jaw 1
+    100766: Jaw 2
+    100768: joint1
+    100770: joint1 1
+    100772: joint1 1 1
+    100774: joint1 2
+    100776: joint1 3
+    100778: joint1 4
+    100780: joint1 5
+    100782: joint1 6
+    100784: joint1 7
+    100786: joint1 8
+    100788: joint10
+    100790: joint11
+    100792: joint12
+    100794: joint13
+    100796: joint2
+    100798: joint2 1
+    100800: joint2 1 1
+    100802: joint2 2
+    100804: joint2 3
+    100806: joint2 4
+    100808: joint2 5
+    100810: joint2 6
+    100812: joint2 7
+    100814: joint2 8
+    100816: joint3
+    100818: joint3 1
+    100820: joint3 1 1
+    100822: joint3 2
+    100824: joint3 3
+    100826: joint3 4
+    100828: joint3 5
+    100830: joint3 6
+    100832: joint3 7
+    100834: joint3 8
+    100836: joint4
+    100838: joint4 1
+    100840: joint4 1 1
+    100842: joint4 2
+    100844: joint4 3
+    100846: joint4 4
+    100848: joint4 5
+    100850: joint4 6
+    100852: joint4 7
+    100854: joint4 8
+    100856: joint5
+    100858: joint6
+    100860: joint7
+    100862: joint8
+    100864: joint9
+    100866: leftClaw
+    100868: leftClaw 1
+    100870: leftClaw 2
+    100872: leftfeet
+    100874: leftfeet 1
+    100876: leftfeet 1 1
+    100878: leftfeet 2
+    100880: leftfeet 3
+    100882: leftfeet 4
+    100884: leftfeet 5
+    100886: leftfeet 6
+    100888: leftfeet 7
+    100890: leftForeArm
+    100892: leftForeArm 1
+    100894: leftForeArm 2
+    100896: leftLeg
+    100898: leftLeg 1
+    100900: leftLeg 1 1
+    100902: leftLeg 2
+    100904: leftLeg 2 1
+    100906: leftLeg 3
+    100908: leftLeg 3 1
+    100910: leftLeg 4
+    100912: leftLeg 4 1
+    100914: leftLeg 5
+    100916: leftLeg 6
+    100918: leftLeg 7
+    100920: leftSwing
+    100922: leftSwing 1
+    100924: leftSwing 2
+    100926: lift
+    100928: light
+    100930: light 1
+    100932: light 1 1
+    100934: light 2
+    100936: Lightbeam_Rays
+    100938: Lightbeam_Rays 1
+    100940: Lightbeam_Rays 2
+    100942: littleMonster1
+    100944: littleMonster2
+    100946: littleMonster_hold
+    100948: Main Camera
+    100950: Main Camera 1
+    100952: Main Camera 2
+    100954: Main Camera 3
+    100956: Main Camera 4
+    100958: Main Camera 5
+    100960: Main Camera 6
+    100962: Main Camera 7
+    100964: Main Camera 8
+    100966: Mesh
+    100968: Mesh1
+    100970: Mesh2
+    100972: Mesh3
+    100974: Mesh4
+    100976: middle
+    100978: notmove_hero
+    100980: Panel
+    100982: Panel 1
+    100984: Panel 2
+    100986: Panel 3
+    100988: Panel 4
+    100990: Panel 5
+    100992: Panel 6
+    100994: Panel 7
+    100996: Panel 8
+    100998: Particle System
+    101000: Particle System 1
+    101002: pasted__backClaw
+    101004: pasted__body
+    101006: pasted__chain
+    101008: pasted__chain1
+    101010: pasted__elevater
+    101012: pasted__front_claw
+    101014: pasted__group1
+    101016: pasted__group2_monsterAll
+    101018: pasted__group3
+    101020: pasted__group3 1
+    101022: pasted__hand_lef
+    101024: pasted__handL
+    101026: pasted__handr
+    101028: pasted__handRight
+    101030: pasted__head
+    101032: pasted__head 1
+    101034: pasted__Jaw
+    101036: pasted__joint1
+    101038: pasted__joint2
+    101040: pasted__joint3
+    101042: pasted__joint4
+    101044: pasted__leftClaw
+    101046: pasted__leftForeArm
+    101048: pasted__leftLeg
+    101050: pasted__leftSwing
+    101052: pasted__lift
+    101054: pasted__littleMonster
+    101056: pasted__pasted__chain
+    101058: pasted__pasted__chain1
+    101060: pasted__pasted__lift
+    101062: pasted__pasted__lift1
+    101064: pasted__pasted__pasted__pCube12
+    101066: pasted__pasted__pasted__pCube12 1
+    101068: pasted__pasted__pasted__pCube13
+    101070: pasted__pasted__pasted__pCube13 1
+    101072: pasted__pasted__pasted__pCube14
+    101074: pasted__pasted__pasted__pCube14 1
+    101076: pasted__pasted__pasted__pCube15
+    101078: pasted__pasted__pasted__pCube15 1
+    101080: pasted__pasted__pasted__transform3
+    101082: pasted__pasted__pasted__transform3 1
+    101084: pasted__pasted__pasted__transform4
+    101086: pasted__pasted__pasted__transform4 1
+    101088: pasted__pasted__pasted__transform5
+    101090: pasted__pasted__pasted__transform5 1
+    101092: pasted__pasted__pasted__transform6
+    101094: pasted__pasted__pasted__transform6 1
+    101096: pasted__pasted__pCube12
+    101098: pasted__pasted__pCube13
+    101100: pasted__pasted__pCube14
+    101102: pasted__pasted__pCube15
+    101104: pasted__pasted__swich
+    101106: pasted__pasted__swich 1
+    101108: pasted__pasted__swichButton
+    101110: pasted__pasted__swichStick
+    101112: pasted__pasted__transform3
+    101114: pasted__pasted__transform4
+    101116: pasted__pasted__transform5
+    101118: pasted__pasted__transform6
+    101120: pasted__pCube1
+    101122: pasted__pCube12
+    101124: pasted__pCube13
+    101126: pasted__pCube14
+    101128: pasted__pCube15
+    101130: pasted__pCube2
+    101132: pasted__pCube3
+    101134: pasted__pCube4
+    101136: pasted__pCube5
+    101138: pasted__pCube6
+    101140: pasted__pCube7
+    101142: pasted__polySurface14
+    101144: pasted__polySurface17
+    101146: pasted__polySurface18
+    101148: pasted__polySurface18 1
+    101150: pasted__polySurface7
+    101152: pasted__polySurface7 1
+    101154: pasted__polySurface854
+    101156: pasted__polySurface854 1
+    101158: pasted__polySurface855
+    101160: pasted__polySurface855 1
+    101162: pasted__pPyramid1
+    101164: pasted__pPyramid10
+    101166: pasted__rightClaw
+    101168: pasted__rightForeArm
+    101170: pasted__rightLeg
+    101172: pasted__rightSwing
+    101174: pasted__scale
+    101176: pasted__sting
+    101178: pasted__swich
+    101180: pasted__swichButton
+    101182: pasted__swichStick
+    101184: pasted__tile
+    101186: pasted__tile 1
+    101188: pasted__tile1
+    101190: pasted__train
+    101192: pasted__train1
+    101194: pasted__transform3
+    101196: pasted__transform4
+    101198: pasted__transform5
+    101200: pasted__transform6
+    101202: pCube1
+    101204: pCube1 1
+    101206: pCube10
+    101208: pCube100
+    101210: pCube101
+    101212: pCube11
+    101214: pCube2
+    101216: pCube20
+    101218: pCube21
+    101220: pCube21 1
+    101222: pCube22
+    101224: pCube22 1
+    101226: pCube24
+    101228: pCube25
+    101230: pCube3
+    101232: pCube3 1
+    101234: pCube3 2
+    101236: pCube33
+    101238: pCube37
+    101240: pCube4
+    101242: pCube4 1
+    101244: pCube4 2
+    101246: pCube4 3
+    101248: pCube40
+    101250: pCube45
+    101252: pCube45 1
+    101254: pCube5
+    101256: pCube5 1
+    101258: pCube5 2
+    101260: pCube62
+    101262: pCube8
+    101264: pCube9
+    101266: pCube98
+    101268: pCube99
+    101270: pickUpcon
+    101272: pickUpHelper
+    101274: Plane
+    101276: Plane 1
+    101278: Point light
+    101280: Point light 1
+    101282: Point light 1 1
+    101284: Point light 1 1 1
+    101286: Point light 1 10
+    101288: Point light 1 2
+    101290: Point light 1 3
+    101292: Point light 1 4
+    101294: Point light 1 5
+    101296: Point light 1 6
+    101298: Point light 1 7
+    101300: Point light 1 8
+    101302: Point light 1 9
+    101304: Point light 2
+    101306: Point light 2 1
+    101308: Point light 3
+    101310: Point light 3 1
+    101312: Point light 4
+    101314: polySurface1
+    101316: polySurface1 1
+    101318: polySurface10
+    101320: polySurface11
+    101322: polySurface11 1
+    101324: polySurface12
+    101326: polySurface13
+    101328: polySurface14
+    101330: polySurface2
+    101332: polySurface2 1
+    101334: polySurface2 2
+    101336: polySurface3
+    101338: polySurface3 1
+    101340: polySurface524
+    101342: polySurface525
+    101344: polySurface7
+    101346: polySurface7 1
+    101348: polySurface7 1 1
+    101350: polySurface7 2
+    101352: polySurface7 3
+    101354: polySurface7 4
+    101356: polySurface7 5
+    101358: polySurface8
+    101360: polySurface854
+    101362: polySurface9
+    101364: puzle04
+    101366: puzzle01_animationCharactyer
+    101368: puzzle02
+    101370: puzzle02_animation
+    101372: puzzle03
+    101374: puzzle03 1
+    101376: puzzle05
+    101378: puzzle06
+    101380: puzzle06 1
+    101382: puzzle07
+    101384: puzzle3_animation
+    101386: puzzle6_anime
+    101388: puzzle6_into
+    101390: readyForpuzzleone_stage
+    101392: ribonJoints
+    101394: ribonJoints 1
+    101396: ribonJoints 1 1
+    101398: ribonJoints 2
+    101400: ribonJoints 3
+    101402: ribonJoints 4
+    101404: ribonJoints 5
+    101406: rightClaw
+    101408: rightClaw 1
+    101410: rightClaw 2
+    101412: rightfeet
+    101414: rightfeet 1
+    101416: rightfeet 1 1
+    101418: rightfeet 2
+    101420: rightfeet 3
+    101422: rightfeet 4
+    101424: rightfeet 5
+    101426: rightfeet 6
+    101428: rightfeet 7
+    101430: rightForeArm
+    101432: rightForeArm 1
+    101434: rightForeArm 2
+    101436: rightLeg
+    101438: rightLeg 1
+    101440: rightLeg 1 1
+    101442: rightLeg 2
+    101444: rightLeg 2 1
+    101446: rightLeg 3
+    101448: rightLeg 3 1
+    101450: rightLeg 4
+    101452: rightLeg 4 1
+    101454: rightLeg 5
+    101456: rightLeg 6
+    101458: rightLeg 7
+    101460: rightSwing
+    101462: rightSwing 1
+    101464: rightSwing 2
+    101466: robe01
+    101468: robe02
+    101470: room
+    101472: room 1
+    101474: room 1 1
+    101476: room 1 1 1
+    101478: room 1 2
+    101480: room 1 3
+    101482: room 2
+    101484: room 2 1
+    101486: room 2 1 1
+    101488: room 2 2
+    101490: room 2 3
+    101492: room 3
+    101494: room 3 1
+    101496: room 3 1 1
+    101498: room 4
+    101500: room 4 1
+    101502: scene01_finishoff
+    101504: scene01_finishoff 1
+    101506: scene02
+    101508: scene02 1
+    101510: scene02_finshoff
+    101512: scene02_finshoff 1
+    101514: skeleton
+    101516: spare
+    101518: spare 1
+    101520: spare 1 1
+    101522: spare 2
+    101524: spare 3
+    101526: spare 4
+    101528: spare 5
+    101530: spare 6
+    101532: spare 7
+    101534: spareRibbon
+    101536: spareRibbon 1
+    101538: spareRibbon 1 1
+    101540: spareRibbon 2
+    101542: spareRibbon 3
+    101544: spareRibbon 4
+    101546: spareRibbon 5
+    101548: spareRibbon 6
+    101550: spareRibbon 7
+    101552: stage
+    101554: stage 1
+    101556: stage01
+    101558: stage01 1
+    101560: static
+    101562: swich
+    101564: swich 1
+    101566: swich 2
+    101568: swich 2 1
+    101570: swich 3
+    101572: swichButton
+    101574: swichStick
+    101576: table
+    101578: table 1
+    101580: Text
+    101582: Text 1
+    101584: Text 1 1
+    101586: Text 10
+    101588: Text 11
+    101590: Text 12
+    101592: Text 13
+    101594: Text 14
+    101596: Text 15
+    101598: Text 16
+    101600: Text 17
+    101602: Text 18
+    101604: Text 2
+    101606: Text 3
+    101608: Text 4
+    101610: Text 5
+    101612: Text 6
+    101614: Text 7
+    101616: Text 8
+    101618: Text 9
+    101620: train
+    101622: train 1
+    101624: transform1
+    101626: transform2
+    101628: transform3
+    101630: transform4
+    101632: trees
+    101634: trees 1
+    101636: trees 1 1
+    101638: trees 1 1 1
+    101640: trees 1 2
+    101642: trees 1 3
+    101644: trees 2
+    101646: trees 2 1
+    101648: trees 2 1 1
+    101650: trees 2 2
+    101652: trees 2 3
+    101654: trees 3
+    101656: trees 3 1
+    101658: trees 3 1 1
+    101660: trees 3 2
+    101662: trees 3 3
+    101664: trees 4
+    101666: trees 4 1
+    101668: trees 4 2
+    101670: trees 4 3
+    101672: waterAffwct1
+    101674: waterAffwct5
+    101676: waterAffwct6
+    101678: waterAffwct7
+    101680: //RootNode
+    400000: audioTrack
+    400002: audioTrack 1
+    400004: backClaw
+    400006: backClaw 1
+    400008: backClaw 2
+    400010: bell
+    400012: bell 1
+    400014: bell 1 1
+    400016: bell 2
+    400018: bell 3
+    400020: bell 4
+    400022: bell 5
+    400024: bell 6
+    400026: bell 7
+    400028: BG
+    400030: Button
+    400032: Button 1
+    400034: Button 1 1
+    400036: Button 2
+    400038: Button 2 1
+    400040: Button 3
+    400042: Button 4
+    400044: Button1
+    400046: Camera
+    400048: Camera 1
+    400050: Camera 1 1
+    400052: Camera 1 1 1
+    400054: Camera 1 2
+    400056: Camera 1 3
+    400058: Camera 1 4
+    400060: Camera 1 5
+    400062: Camera 2
+    400064: Camera 2 1
+    400066: Camera 2 1 1
+    400068: Camera 2 2
+    400070: Camera 2 3
+    400072: Camera 3
+    400074: Camera 3 1
+    400076: Camera 4
+    400078: Camera 5
+    400080: Camera 6
+    400082: Camera 7
+    400084: Canvas
+    400086: Canvas 1
+    400088: Canvas 2
+    400090: Canvas 3
+    400092: Canvas 4
+    400094: Canvas 5
+    400096: Canvas 6
+    400098: Canvas 7
+    400100: Canvas 8
+    400102: chain
+    400104: chainLight
+    400106: chainLight 1
+    400108: chainLight:Mesh
+    400110: chameleon
+    400112: character01
+    400114: character01 1
+    400116: character01 2
+    400118: character01 3
+    400120: character01 4
+    400122: character01:bell
+    400124: character01:bell 1
+    400126: character01:bell 2
+    400128: character01:head
+    400130: character01:head 1
+    400132: character01:head 2
+    400134: character01:hero_body
+    400136: character01:hero_body 1
+    400138: character01:hero_body 2
+    400140: character01:joint1
+    400142: character01:joint1 1
+    400144: character01:joint1 2
+    400146: character01:joint2
+    400148: character01:joint2 1
+    400150: character01:joint2 2
+    400152: character01:joint3
+    400154: character01:joint3 1
+    400156: character01:joint3 2
+    400158: character01:joint4
+    400160: character01:joint4 1
+    400162: character01:joint4 2
+    400164: character01:leftfeet
+    400166: character01:leftfeet 1
+    400168: character01:leftfeet 2
+    400170: character01:leftLeg
+    400172: character01:leftLeg 1
+    400174: character01:leftLeg 2
+    400176: character01:notmove_hero
+    400178: character01:notmove_hero 1
+    400180: character01:notmove_hero 2
+    400182: character01:ribonJoints
+    400184: character01:ribonJoints 1
+    400186: character01:ribonJoints 2
+    400188: character01:rightfeet
+    400190: character01:rightfeet 1
+    400192: character01:rightfeet 2
+    400194: character01:rightLeg
+    400196: character01:rightLeg 1
+    400198: character01:rightLeg 2
+    400200: character01:spare
+    400202: character01:spare 1
+    400204: character01:spare 2
+    400206: character01:spareRibbon
+    400208: character01:spareRibbon 1
+    400210: character01:spareRibbon 2
+    400212: character01_notmove_hero
+    400214: character02:bell
+    400216: character02:bell 1
+    400218: character02:bell 2
+    400220: character02:head
+    400222: character02:head 1
+    400224: character02:head 2
+    400226: character02:hero_body
+    400228: character02:hero_body 1
+    400230: character02:hero_body 2
+    400232: character02:joint1
+    400234: character02:joint1 1
+    400236: character02:joint1 2
+    400238: character02:joint2
+    400240: character02:joint2 1
+    400242: character02:joint2 2
+    400244: character02:joint3
+    400246: character02:joint3 1
+    400248: character02:joint3 2
+    400250: character02:joint4
+    400252: character02:joint4 1
+    400254: character02:joint4 2
+    400256: character02:leftfeet
+    400258: character02:leftfeet 1
+    400260: character02:leftfeet 2
+    400262: character02:leftLeg
+    400264: character02:leftLeg 1
+    400266: character02:leftLeg 2
+    400268: character02:notmove_hero
+    400270: character02:notmove_hero 1
+    400272: character02:ribonJoints
+    400274: character02:ribonJoints 1
+    400276: character02:ribonJoints 2
+    400278: character02:rightfeet
+    400280: character02:rightfeet 1
+    400282: character02:rightfeet 2
+    400284: character02:rightLeg
+    400286: character02:rightLeg 1
+    400288: character02:rightLeg 2
+    400290: character02:spare
+    400292: character02:spare 1
+    400294: character02:spare 2
+    400296: character02:spareRibbon
+    400298: character02:spareRibbon 1
+    400300: character02:spareRibbon 2
+    400302: character03:bell
+    400304: character03:head
+    400306: character03:hero_body
+    400308: character03:joint1
+    400310: character03:joint2
+    400312: character03:joint3
+    400314: character03:joint4
+    400316: character03:leftfeet
+    400318: character03:leftLeg
+    400320: character03:notmove_hero
+    400322: character03:ribonJoints
+    400324: character03:rightfeet
+    400326: character03:rightLeg
+    400328: character03:spare
+    400330: character03:spareRibbon
+    400332: character04:bell
+    400334: character04:head
+    400336: character04:hero_body
+    400338: character04:joint1
+    400340: character04:joint2
+    400342: character04:joint3
+    400344: character04:joint4
+    400346: character04:leftfeet
+    400348: character04:leftLeg
+    400350: character04:notmove_hero
+    400352: character04:ribonJoints
+    400354: character04:rightfeet
+    400356: character04:rightLeg
+    400358: character04:spare
+    400360: character04:spareRibbon
+    400362: characterControl
+    400364: characterControl 1
+    400366: characterControl 2
+    400368: characterControl 3
+    400370: characterControl 4
+    400372: checkbridege
+    400374: cloud 1
+    400376: cloud02
+    400378: crystal
+    400380: crystone01
+    400382: default
+    400384: default 1
+    400386: default 10
+    400388: default 11
+    400390: default 12
+    400392: default 13
+    400394: default 14
+    400396: default 15
+    400398: default 16
+    400400: default 17
+    400402: default 18
+    400404: default 19
+    400406: default 2
+    400408: default 20
+    400410: default 21
+    400412: default 22
+    400414: default 23
+    400416: default 24
+    400418: default 25
+    400420: default 26
+    400422: default 27
+    400424: default 28
+    400426: default 29
+    400428: default 3
+    400430: default 30
+    400432: default 31
+    400434: default 32
+    400436: default 33
+    400438: default 34
+    400440: default 35
+    400442: default 36
+    400444: default 37
+    400446: default 38
+    400448: default 39
+    400450: default 4
+    400452: default 40
+    400454: default 41
+    400456: default 42
+    400458: default 43
+    400460: default 44
+    400462: default 45
+    400464: default 46
+    400466: default 47
+    400468: default 48
+    400470: default 49
+    400472: default 5
+    400474: default 50
+    400476: default 51
+    400478: default 52
+    400480: default 53
+    400482: default 54
+    400484: default 55
+    400486: default 56
+    400488: default 57
+    400490: default 58
+    400492: default 59
+    400494: default 6
+    400496: default 60
+    400498: default 61
+    400500: default 62
+    400502: default 63
+    400504: default 64
+    400506: default 65
+    400508: default 66
+    400510: default 67
+    400512: default 68
+    400514: default 69
+    400516: default 7
+    400518: default 70
+    400520: default 71
+    400522: default 72
+    400524: default 73
+    400526: default 74
+    400528: default 75
+    400530: default 76
+    400532: default 77
+    400534: default 78
+    400536: default 79
+    400538: default 8
+    400540: default 80
+    400542: default 81
+    400544: default 82
+    400546: default 83
+    400548: default 84
+    400550: default 85
+    400552: default 9
+    400554: Directional Light
+    400556: Directional Light 1
+    400558: Directional Light 2
+    400560: Directional Light 3
+    400562: Directional Light 4
+    400564: Directional Light 5
+    400566: Directional Light 6
+    400568: Directional Light 7
+    400570: Directional Light 8
+    400572: elder
+    400574: elder 1
+    400576: electricPole
+    400578: elevater
+    400580: EventSystem
+    400582: EventSystem 1
+    400584: EventSystem 2
+    400586: EventSystem 3
+    400588: EventSystem 4
+    400590: EventSystem 5
+    400592: EventSystem 6
+    400594: EventSystem 7
+    400596: EventSystem 8
+    400598: first
+    400600: firstRobe_drop
+    400602: flow
+    400604: flow 1
+    400606: front1
+    400608: front_claw
+    400610: front_claw 1
+    400612: front_claw 2
+    400614: goBridge
+    400616: group
+    400618: group 1
+    400620: group 2
+    400622: group1
+    400624: group1 1
+    400626: group10
+    400628: group11
+    400630: group2
+    400632: group2 1
+    400634: group5
+    400636: group7
+    400638: group9
+    400640: head
+    400642: head 1
+    400644: head 1 1
+    400646: head 2
+    400648: head 2 1
+    400650: head 3
+    400652: head 3 1
+    400654: head 4
+    400656: head 4 1
+    400658: head 5
+    400660: head 6
+    400662: head 7
+    400664: hearo
+    400666: hearo 1
+    400668: hero_body
+    400670: hero_body 1
+    400672: hero_body 1 1
+    400674: hero_body 2
+    400676: hero_body 3
+    400678: hero_body 4
+    400680: hero_body 5
+    400682: hero_body 6
+    400684: hero_body 7
+    400686: hill02
+    400688: hill02 1
+    400690: hill03
+    400692: hill03 1
+    400694: hill03 2
+    400696: hill04
+    400698: hill05
+    400700: hill06
+    400702: hill07
+    400704: hill08
+    400706: hills
+    400708: hills 1
+    400710: hills 1 1
+    400712: hills 1 1 1
+    400714: hills 1 2
+    400716: hills 1 3
+    400718: hills 1 4
+    400720: hills 1 5
+    400722: hills 2
+    400724: hills 2 1
+    400726: hills 2 1 1
+    400728: hills 2 2
+    400730: hills 2 3
+    400732: hills 3
+    400734: hills 3 1
+    400736: hills 3 1 1
+    400738: hills 3 2
+    400740: hills 3 3
+    400742: hills 4
+    400744: hills 4 1
+    400746: hills 5
+    400748: hills 5 1
+    400750: hills 6
+    400752: hills 7
+    400754: Image
+    400756: Image 1
+    400758: Image01
+    400760: Image01 1
+    400762: Jaw
+    400764: Jaw 1
+    400766: Jaw 2
+    400768: joint1
+    400770: joint1 1
+    400772: joint1 1 1
+    400774: joint1 2
+    400776: joint1 3
+    400778: joint1 4
+    400780: joint1 5
+    400782: joint1 6
+    400784: joint1 7
+    400786: joint1 8
+    400788: joint10
+    400790: joint11
+    400792: joint12
+    400794: joint13
+    400796: joint2
+    400798: joint2 1
+    400800: joint2 1 1
+    400802: joint2 2
+    400804: joint2 3
+    400806: joint2 4
+    400808: joint2 5
+    400810: joint2 6
+    400812: joint2 7
+    400814: joint2 8
+    400816: joint3
+    400818: joint3 1
+    400820: joint3 1 1
+    400822: joint3 2
+    400824: joint3 3
+    400826: joint3 4
+    400828: joint3 5
+    400830: joint3 6
+    400832: joint3 7
+    400834: joint3 8
+    400836: joint4
+    400838: joint4 1
+    400840: joint4 1 1
+    400842: joint4 2
+    400844: joint4 3
+    400846: joint4 4
+    400848: joint4 5
+    400850: joint4 6
+    400852: joint4 7
+    400854: joint4 8
+    400856: joint5
+    400858: joint6
+    400860: joint7
+    400862: joint8
+    400864: joint9
+    400866: leftClaw
+    400868: leftClaw 1
+    400870: leftClaw 2
+    400872: leftfeet
+    400874: leftfeet 1
+    400876: leftfeet 1 1
+    400878: leftfeet 2
+    400880: leftfeet 3
+    400882: leftfeet 4
+    400884: leftfeet 5
+    400886: leftfeet 6
+    400888: leftfeet 7
+    400890: leftForeArm
+    400892: leftForeArm 1
+    400894: leftForeArm 2
+    400896: leftLeg
+    400898: leftLeg 1
+    400900: leftLeg 1 1
+    400902: leftLeg 2
+    400904: leftLeg 2 1
+    400906: leftLeg 3
+    400908: leftLeg 3 1
+    400910: leftLeg 4
+    400912: leftLeg 4 1
+    400914: leftLeg 5
+    400916: leftLeg 6
+    400918: leftLeg 7
+    400920: leftSwing
+    400922: leftSwing 1
+    400924: leftSwing 2
+    400926: lift
+    400928: light
+    400930: light 1
+    400932: light 1 1
+    400934: light 2
+    400936: Lightbeam_Rays
+    400938: Lightbeam_Rays 1
+    400940: Lightbeam_Rays 2
+    400942: littleMonster1
+    400944: littleMonster2
+    400946: littleMonster_hold
+    400948: Main Camera
+    400950: Main Camera 1
+    400952: Main Camera 2
+    400954: Main Camera 3
+    400956: Main Camera 4
+    400958: Main Camera 5
+    400960: Main Camera 6
+    400962: Main Camera 7
+    400964: Main Camera 8
+    400966: Mesh
+    400968: Mesh1
+    400970: Mesh2
+    400972: Mesh3
+    400974: Mesh4
+    400976: middle
+    400978: notmove_hero
+    400980: Panel
+    400982: Panel 1
+    400984: Panel 2
+    400986: Panel 3
+    400988: Panel 4
+    400990: Panel 5
+    400992: Panel 6
+    400994: Panel 7
+    400996: Panel 8
+    400998: Particle System
+    401000: Particle System 1
+    401002: pasted__backClaw
+    401004: pasted__body
+    401006: pasted__chain
+    401008: pasted__chain1
+    401010: pasted__elevater
+    401012: pasted__front_claw
+    401014: pasted__group1
+    401016: pasted__group2_monsterAll
+    401018: pasted__group3
+    401020: pasted__group3 1
+    401022: pasted__hand_lef
+    401024: pasted__handL
+    401026: pasted__handr
+    401028: pasted__handRight
+    401030: pasted__head
+    401032: pasted__head 1
+    401034: pasted__Jaw
+    401036: pasted__joint1
+    401038: pasted__joint2
+    401040: pasted__joint3
+    401042: pasted__joint4
+    401044: pasted__leftClaw
+    401046: pasted__leftForeArm
+    401048: pasted__leftLeg
+    401050: pasted__leftSwing
+    401052: pasted__lift
+    401054: pasted__littleMonster
+    401056: pasted__pasted__chain
+    401058: pasted__pasted__chain1
+    401060: pasted__pasted__lift
+    401062: pasted__pasted__lift1
+    401064: pasted__pasted__pasted__pCube12
+    401066: pasted__pasted__pasted__pCube12 1
+    401068: pasted__pasted__pasted__pCube13
+    401070: pasted__pasted__pasted__pCube13 1
+    401072: pasted__pasted__pasted__pCube14
+    401074: pasted__pasted__pasted__pCube14 1
+    401076: pasted__pasted__pasted__pCube15
+    401078: pasted__pasted__pasted__pCube15 1
+    401080: pasted__pasted__pasted__transform3
+    401082: pasted__pasted__pasted__transform3 1
+    401084: pasted__pasted__pasted__transform4
+    401086: pasted__pasted__pasted__transform4 1
+    401088: pasted__pasted__pasted__transform5
+    401090: pasted__pasted__pasted__transform5 1
+    401092: pasted__pasted__pasted__transform6
+    401094: pasted__pasted__pasted__transform6 1
+    401096: pasted__pasted__pCube12
+    401098: pasted__pasted__pCube13
+    401100: pasted__pasted__pCube14
+    401102: pasted__pasted__pCube15
+    401104: pasted__pasted__swich
+    401106: pasted__pasted__swich 1
+    401108: pasted__pasted__swichButton
+    401110: pasted__pasted__swichStick
+    401112: pasted__pasted__transform3
+    401114: pasted__pasted__transform4
+    401116: pasted__pasted__transform5
+    401118: pasted__pasted__transform6
+    401120: pasted__pCube1
+    401122: pasted__pCube12
+    401124: pasted__pCube13
+    401126: pasted__pCube14
+    401128: pasted__pCube15
+    401130: pasted__pCube2
+    401132: pasted__pCube3
+    401134: pasted__pCube4
+    401136: pasted__pCube5
+    401138: pasted__pCube6
+    401140: pasted__pCube7
+    401142: pasted__polySurface14
+    401144: pasted__polySurface17
+    401146: pasted__polySurface18
+    401148: pasted__polySurface18 1
+    401150: pasted__polySurface7
+    401152: pasted__polySurface7 1
+    401154: pasted__polySurface854
+    401156: pasted__polySurface854 1
+    401158: pasted__polySurface855
+    401160: pasted__polySurface855 1
+    401162: pasted__pPyramid1
+    401164: pasted__pPyramid10
+    401166: pasted__rightClaw
+    401168: pasted__rightForeArm
+    401170: pasted__rightLeg
+    401172: pasted__rightSwing
+    401174: pasted__scale
+    401176: pasted__sting
+    401178: pasted__swich
+    401180: pasted__swichButton
+    401182: pasted__swichStick
+    401184: pasted__tile
+    401186: pasted__tile 1
+    401188: pasted__tile1
+    401190: pasted__train
+    401192: pasted__train1
+    401194: pasted__transform3
+    401196: pasted__transform4
+    401198: pasted__transform5
+    401200: pasted__transform6
+    401202: pCube1
+    401204: pCube1 1
+    401206: pCube10
+    401208: pCube100
+    401210: pCube101
+    401212: pCube11
+    401214: pCube2
+    401216: pCube20
+    401218: pCube21
+    401220: pCube21 1
+    401222: pCube22
+    401224: pCube22 1
+    401226: pCube24
+    401228: pCube25
+    401230: pCube3
+    401232: pCube3 1
+    401234: pCube3 2
+    401236: pCube33
+    401238: pCube37
+    401240: pCube4
+    401242: pCube4 1
+    401244: pCube4 2
+    401246: pCube4 3
+    401248: pCube40
+    401250: pCube45
+    401252: pCube45 1
+    401254: pCube5
+    401256: pCube5 1
+    401258: pCube5 2
+    401260: pCube62
+    401262: pCube8
+    401264: pCube9
+    401266: pCube98
+    401268: pCube99
+    401270: pickUpcon
+    401272: pickUpHelper
+    401274: Plane
+    401276: Plane 1
+    401278: Point light
+    401280: Point light 1
+    401282: Point light 1 1
+    401284: Point light 1 1 1
+    401286: Point light 1 10
+    401288: Point light 1 2
+    401290: Point light 1 3
+    401292: Point light 1 4
+    401294: Point light 1 5
+    401296: Point light 1 6
+    401298: Point light 1 7
+    401300: Point light 1 8
+    401302: Point light 1 9
+    401304: Point light 2
+    401306: Point light 2 1
+    401308: Point light 3
+    401310: Point light 3 1
+    401312: Point light 4
+    401314: polySurface1
+    401316: polySurface1 1
+    401318: polySurface10
+    401320: polySurface11
+    401322: polySurface11 1
+    401324: polySurface12
+    401326: polySurface13
+    401328: polySurface14
+    401330: polySurface2
+    401332: polySurface2 1
+    401334: polySurface2 2
+    401336: polySurface3
+    401338: polySurface3 1
+    401340: polySurface524
+    401342: polySurface525
+    401344: polySurface7
+    401346: polySurface7 1
+    401348: polySurface7 1 1
+    401350: polySurface7 2
+    401352: polySurface7 3
+    401354: polySurface7 4
+    401356: polySurface7 5
+    401358: polySurface8
+    401360: polySurface854
+    401362: polySurface9
+    401364: puzle04
+    401366: puzzle01_animationCharactyer
+    401368: puzzle02
+    401370: puzzle02_animation
+    401372: puzzle03
+    401374: puzzle03 1
+    401376: puzzle05
+    401378: puzzle06
+    401380: puzzle06 1
+    401382: puzzle07
+    401384: puzzle3_animation
+    401386: puzzle6_anime
+    401388: puzzle6_into
+    401390: readyForpuzzleone_stage
+    401392: ribonJoints
+    401394: ribonJoints 1
+    401396: ribonJoints 1 1
+    401398: ribonJoints 2
+    401400: ribonJoints 3
+    401402: ribonJoints 4
+    401404: ribonJoints 5
+    401406: rightClaw
+    401408: rightClaw 1
+    401410: rightClaw 2
+    401412: rightfeet
+    401414: rightfeet 1
+    401416: rightfeet 1 1
+    401418: rightfeet 2
+    401420: rightfeet 3
+    401422: rightfeet 4
+    401424: rightfeet 5
+    401426: rightfeet 6
+    401428: rightfeet 7
+    401430: rightForeArm
+    401432: rightForeArm 1
+    401434: rightForeArm 2
+    401436: rightLeg
+    401438: rightLeg 1
+    401440: rightLeg 1 1
+    401442: rightLeg 2
+    401444: rightLeg 2 1
+    401446: rightLeg 3
+    401448: rightLeg 3 1
+    401450: rightLeg 4
+    401452: rightLeg 4 1
+    401454: rightLeg 5
+    401456: rightLeg 6
+    401458: rightLeg 7
+    401460: rightSwing
+    401462: rightSwing 1
+    401464: rightSwing 2
+    401466: robe01
+    401468: robe02
+    401470: room
+    401472: room 1
+    401474: room 1 1
+    401476: room 1 1 1
+    401478: room 1 2
+    401480: room 1 3
+    401482: room 2
+    401484: room 2 1
+    401486: room 2 1 1
+    401488: room 2 2
+    401490: room 2 3
+    401492: room 3
+    401494: room 3 1
+    401496: room 3 1 1
+    401498: room 4
+    401500: room 4 1
+    401502: scene01_finishoff
+    401504: scene01_finishoff 1
+    401506: scene02
+    401508: scene02 1
+    401510: scene02_finshoff
+    401512: scene02_finshoff 1
+    401514: skeleton
+    401516: spare
+    401518: spare 1
+    401520: spare 1 1
+    401522: spare 2
+    401524: spare 3
+    401526: spare 4
+    401528: spare 5
+    401530: spare 6
+    401532: spare 7
+    401534: spareRibbon
+    401536: spareRibbon 1
+    401538: spareRibbon 1 1
+    401540: spareRibbon 2
+    401542: spareRibbon 3
+    401544: spareRibbon 4
+    401546: spareRibbon 5
+    401548: spareRibbon 6
+    401550: spareRibbon 7
+    401552: stage
+    401554: stage 1
+    401556: stage01
+    401558: stage01 1
+    401560: static
+    401562: swich
+    401564: swich 1
+    401566: swich 2
+    401568: swich 2 1
+    401570: swich 3
+    401572: swichButton
+    401574: swichStick
+    401576: table
+    401578: table 1
+    401580: Text
+    401582: Text 1
+    401584: Text 1 1
+    401586: Text 10
+    401588: Text 11
+    401590: Text 12
+    401592: Text 13
+    401594: Text 14
+    401596: Text 15
+    401598: Text 16
+    401600: Text 17
+    401602: Text 18
+    401604: Text 2
+    401606: Text 3
+    401608: Text 4
+    401610: Text 5
+    401612: Text 6
+    401614: Text 7
+    401616: Text 8
+    401618: Text 9
+    401620: train
+    401622: train 1
+    401624: transform1
+    401626: transform2
+    401628: transform3
+    401630: transform4
+    401632: trees
+    401634: trees 1
+    401636: trees 1 1
+    401638: trees 1 1 1
+    401640: trees 1 2
+    401642: trees 1 3
+    401644: trees 2
+    401646: trees 2 1
+    401648: trees 2 1 1
+    401650: trees 2 2
+    401652: trees 2 3
+    401654: trees 3
+    401656: trees 3 1
+    401658: trees 3 1 1
+    401660: trees 3 2
+    401662: trees 3 3
+    401664: trees 4
+    401666: trees 4 1
+    401668: trees 4 2
+    401670: trees 4 3
+    401672: waterAffwct1
+    401674: waterAffwct5
+    401676: waterAffwct6
+    401678: waterAffwct7
+    401680: //RootNode
+    2300000: bell
+    2300002: bell 1
+    2300004: bell 1 1
+    2300006: bell 2
+    2300008: bell 3
+    2300010: bell 4
+    2300012: bell 5
+    2300014: bell 6
+    2300016: bell 7
+    2300018: chain
+    2300020: chainLight:Mesh
+    2300022: character01:bell
+    2300024: character01:bell 1
+    2300026: character01:bell 2
+    2300028: character01:head
+    2300030: character01:head 1
+    2300032: character01:head 2
+    2300034: character01:hero_body
+    2300036: character01:hero_body 1
+    2300038: character01:hero_body 2
+    2300040: character01:leftfeet
+    2300042: character01:leftfeet 1
+    2300044: character01:leftfeet 2
+    2300046: character01:leftLeg
+    2300048: character01:leftLeg 1
+    2300050: character01:leftLeg 2
+    2300052: character01:rightfeet
+    2300054: character01:rightfeet 1
+    2300056: character01:rightfeet 2
+    2300058: character01:rightLeg
+    2300060: character01:rightLeg 1
+    2300062: character01:rightLeg 2
+    2300064: character01:spare
+    2300066: character01:spare 1
+    2300068: character01:spare 2
+    2300070: character02:bell
+    2300072: character02:bell 1
+    2300074: character02:bell 2
+    2300076: character02:head
+    2300078: character02:head 1
+    2300080: character02:head 2
+    2300082: character02:hero_body
+    2300084: character02:hero_body 1
+    2300086: character02:hero_body 2
+    2300088: character02:leftfeet
+    2300090: character02:leftfeet 1
+    2300092: character02:leftfeet 2
+    2300094: character02:leftLeg
+    2300096: character02:leftLeg 1
+    2300098: character02:leftLeg 2
+    2300100: character02:rightfeet
+    2300102: character02:rightfeet 1
+    2300104: character02:rightfeet 2
+    2300106: character02:rightLeg
+    2300108: character02:rightLeg 1
+    2300110: character02:rightLeg 2
+    2300112: character02:spare
+    2300114: character02:spare 1
+    2300116: character02:spare 2
+    2300118: character03:bell
+    2300120: character03:head
+    2300122: character03:hero_body
+    2300124: character03:leftfeet
+    2300126: character03:leftLeg
+    2300128: character03:rightfeet
+    2300130: character03:rightLeg
+    2300132: character03:spare
+    2300134: character04:bell
+    2300136: character04:head
+    2300138: character04:hero_body
+    2300140: character04:leftfeet
+    2300142: character04:leftLeg
+    2300144: character04:rightfeet
+    2300146: character04:rightLeg
+    2300148: character04:spare
+    2300150: crystal
+    2300152: default
+    2300154: default 1
+    2300156: default 10
+    2300158: default 11
+    2300160: default 12
+    2300162: default 13
+    2300164: default 14
+    2300166: default 15
+    2300168: default 16
+    2300170: default 17
+    2300172: default 18
+    2300174: default 19
+    2300176: default 2
+    2300178: default 20
+    2300180: default 21
+    2300182: default 22
+    2300184: default 23
+    2300186: default 24
+    2300188: default 25
+    2300190: default 26
+    2300192: default 27
+    2300194: default 28
+    2300196: default 29
+    2300198: default 3
+    2300200: default 30
+    2300202: default 31
+    2300204: default 32
+    2300206: default 33
+    2300208: default 34
+    2300210: default 35
+    2300212: default 36
+    2300214: default 37
+    2300216: default 38
+    2300218: default 39
+    2300220: default 4
+    2300222: default 40
+    2300224: default 41
+    2300226: default 42
+    2300228: default 43
+    2300230: default 44
+    2300232: default 45
+    2300234: default 46
+    2300236: default 47
+    2300238: default 48
+    2300240: default 49
+    2300242: default 5
+    2300244: default 50
+    2300246: default 51
+    2300248: default 52
+    2300250: default 53
+    2300252: default 54
+    2300254: default 55
+    2300256: default 56
+    2300258: default 57
+    2300260: default 58
+    2300262: default 59
+    2300264: default 6
+    2300266: default 60
+    2300268: default 61
+    2300270: default 62
+    2300272: default 63
+    2300274: default 64
+    2300276: default 65
+    2300278: default 66
+    2300280: default 67
+    2300282: default 68
+    2300284: default 69
+    2300286: default 7
+    2300288: default 70
+    2300290: default 71
+    2300292: default 72
+    2300294: default 73
+    2300296: default 74
+    2300298: default 75
+    2300300: default 76
+    2300302: default 77
+    2300304: default 78
+    2300306: default 79
+    2300308: default 8
+    2300310: default 80
+    2300312: default 81
+    2300314: default 82
+    2300316: default 83
+    2300318: default 84
+    2300320: default 85
+    2300322: default 9
+    2300324: firstRobe_drop
+    2300326: front1
+    2300328: head
+    2300330: head 1
+    2300332: head 1 1
+    2300334: head 2
+    2300336: head 2 1
+    2300338: head 3
+    2300340: head 3 1
+    2300342: head 4
+    2300344: head 4 1
+    2300346: head 5
+    2300348: head 6
+    2300350: head 7
+    2300352: hero_body
+    2300354: hero_body 1
+    2300356: hero_body 1 1
+    2300358: hero_body 2
+    2300360: hero_body 3
+    2300362: hero_body 4
+    2300364: hero_body 5
+    2300366: hero_body 6
+    2300368: hero_body 7
+    2300370: Jaw
+    2300372: Jaw 1
+    2300374: Jaw 2
+    2300376: leftClaw
+    2300378: leftClaw 1
+    2300380: leftClaw 2
+    2300382: leftfeet
+    2300384: leftfeet 1
+    2300386: leftfeet 1 1
+    2300388: leftfeet 2
+    2300390: leftfeet 3
+    2300392: leftfeet 4
+    2300394: leftfeet 5
+    2300396: leftfeet 6
+    2300398: leftfeet 7
+    2300400: leftForeArm
+    2300402: leftForeArm 1
+    2300404: leftForeArm 2
+    2300406: leftLeg
+    2300408: leftLeg 1
+    2300410: leftLeg 1 1
+    2300412: leftLeg 2
+    2300414: leftLeg 2 1
+    2300416: leftLeg 3
+    2300418: leftLeg 3 1
+    2300420: leftLeg 4
+    2300422: leftLeg 4 1
+    2300424: leftLeg 5
+    2300426: leftLeg 6
+    2300428: leftLeg 7
+    2300430: leftSwing
+    2300432: leftSwing 1
+    2300434: leftSwing 2
+    2300436: lift
+    2300438: Lightbeam_Rays
+    2300440: Lightbeam_Rays 1
+    2300442: Lightbeam_Rays 2
+    2300444: littleMonster1
+    2300446: littleMonster2
+    2300448: littleMonster_hold
+    2300450: Mesh
+    2300452: Mesh1
+    2300454: Mesh2
+    2300456: Mesh3
+    2300458: Mesh4
+    2300460: pasted__chain
+    2300462: pasted__chain1
+    2300464: pasted__hand_lef
+    2300466: pasted__handRight
+    2300468: pasted__head
+    2300470: pasted__Jaw
+    2300472: pasted__leftClaw
+    2300474: pasted__leftForeArm
+    2300476: pasted__leftLeg
+    2300478: pasted__leftSwing
+    2300480: pasted__lift
+    2300482: pasted__littleMonster
+    2300484: pasted__pasted__chain
+    2300486: pasted__pasted__chain1
+    2300488: pasted__pasted__lift
+    2300490: pasted__pasted__lift1
+    2300492: pasted__pasted__swichButton
+    2300494: pasted__pasted__swichStick
+    2300496: pasted__pCube1
+    2300498: pasted__pCube2
+    2300500: pasted__pCube3
+    2300502: pasted__pCube4
+    2300504: pasted__pCube5
+    2300506: pasted__pCube6
+    2300508: pasted__pCube7
+    2300510: pasted__polySurface14
+    2300512: pasted__polySurface17
+    2300514: pasted__polySurface18
+    2300516: pasted__polySurface18 1
+    2300518: pasted__polySurface7
+    2300520: pasted__polySurface7 1
+    2300522: pasted__polySurface854
+    2300524: pasted__polySurface854 1
+    2300526: pasted__polySurface855
+    2300528: pasted__polySurface855 1
+    2300530: pasted__pPyramid1
+    2300532: pasted__pPyramid10
+    2300534: pasted__rightClaw
+    2300536: pasted__rightForeArm
+    2300538: pasted__rightLeg
+    2300540: pasted__rightSwing
+    2300542: pasted__sting
+    2300544: pasted__swichButton
+    2300546: pasted__swichStick
+    2300548: pasted__tile 1
+    2300550: pasted__train
+    2300552: pasted__train1
+    2300554: pCube1
+    2300556: pCube1 1
+    2300558: pCube10
+    2300560: pCube11
+    2300562: pCube2
+    2300564: pCube20
+    2300566: pCube21
+    2300568: pCube21 1
+    2300570: pCube22
+    2300572: pCube22 1
+    2300574: pCube24
+    2300576: pCube25
+    2300578: pCube3
+    2300580: pCube3 1
+    2300582: pCube3 2
+    2300584: pCube33
+    2300586: pCube37
+    2300588: pCube4
+    2300590: pCube4 1
+    2300592: pCube4 2
+    2300594: pCube4 3
+    2300596: pCube40
+    2300598: pCube45
+    2300600: pCube45 1
+    2300602: pCube5
+    2300604: pCube5 1
+    2300606: pCube5 2
+    2300608: pCube62
+    2300610: pCube8
+    2300612: pCube9
+    2300614: Plane
+    2300616: Plane 1
+    2300618: polySurface1
+    2300620: polySurface1 1
+    2300622: polySurface10
+    2300624: polySurface11
+    2300626: polySurface11 1
+    2300628: polySurface12
+    2300630: polySurface13
+    2300632: polySurface14
+    2300634: polySurface2
+    2300636: polySurface2 1
+    2300638: polySurface2 2
+    2300640: polySurface3
+    2300642: polySurface3 1
+    2300644: polySurface524
+    2300646: polySurface525
+    2300648: polySurface7
+    2300650: polySurface7 1
+    2300652: polySurface7 1 1
+    2300654: polySurface7 2
+    2300656: polySurface7 3
+    2300658: polySurface7 4
+    2300660: polySurface7 5
+    2300662: polySurface8
+    2300664: polySurface854
+    2300666: polySurface9
+    2300668: rightClaw
+    2300670: rightClaw 1
+    2300672: rightClaw 2
+    2300674: rightfeet
+    2300676: rightfeet 1
+    2300678: rightfeet 1 1
+    2300680: rightfeet 2
+    2300682: rightfeet 3
+    2300684: rightfeet 4
+    2300686: rightfeet 5
+    2300688: rightfeet 6
+    2300690: rightfeet 7
+    2300692: rightForeArm
+    2300694: rightForeArm 1
+    2300696: rightForeArm 2
+    2300698: rightLeg
+    2300700: rightLeg 1
+    2300702: rightLeg 1 1
+    2300704: rightLeg 2
+    2300706: rightLeg 2 1
+    2300708: rightLeg 3
+    2300710: rightLeg 3 1
+    2300712: rightLeg 4
+    2300714: rightLeg 4 1
+    2300716: rightLeg 5
+    2300718: rightLeg 6
+    2300720: rightLeg 7
+    2300722: rightSwing
+    2300724: rightSwing 1
+    2300726: rightSwing 2
+    2300728: spare
+    2300730: spare 1
+    2300732: spare 1 1
+    2300734: spare 2
+    2300736: spare 3
+    2300738: spare 4
+    2300740: spare 5
+    2300742: spare 6
+    2300744: spare 7
+    2300746: stage
+    2300748: stage 1
+    2300750: static
+    2300752: swichButton
+    2300754: swichStick
+    2300756: train
+    2300758: train 1
+    3300000: bell
+    3300002: bell 1
+    3300004: bell 1 1
+    3300006: bell 2
+    3300008: bell 3
+    3300010: bell 4
+    3300012: bell 5
+    3300014: bell 6
+    3300016: bell 7
+    3300018: chain
+    3300020: chainLight:Mesh
+    3300022: character01:bell
+    3300024: character01:bell 1
+    3300026: character01:bell 2
+    3300028: character01:head
+    3300030: character01:head 1
+    3300032: character01:head 2
+    3300034: character01:hero_body
+    3300036: character01:hero_body 1
+    3300038: character01:hero_body 2
+    3300040: character01:leftfeet
+    3300042: character01:leftfeet 1
+    3300044: character01:leftfeet 2
+    3300046: character01:leftLeg
+    3300048: character01:leftLeg 1
+    3300050: character01:leftLeg 2
+    3300052: character01:rightfeet
+    3300054: character01:rightfeet 1
+    3300056: character01:rightfeet 2
+    3300058: character01:rightLeg
+    3300060: character01:rightLeg 1
+    3300062: character01:rightLeg 2
+    3300064: character01:spare
+    3300066: character01:spare 1
+    3300068: character01:spare 2
+    3300070: character02:bell
+    3300072: character02:bell 1
+    3300074: character02:bell 2
+    3300076: character02:head
+    3300078: character02:head 1
+    3300080: character02:head 2
+    3300082: character02:hero_body
+    3300084: character02:hero_body 1
+    3300086: character02:hero_body 2
+    3300088: character02:leftfeet
+    3300090: character02:leftfeet 1
+    3300092: character02:leftfeet 2
+    3300094: character02:leftLeg
+    3300096: character02:leftLeg 1
+    3300098: character02:leftLeg 2
+    3300100: character02:rightfeet
+    3300102: character02:rightfeet 1
+    3300104: character02:rightfeet 2
+    3300106: character02:rightLeg
+    3300108: character02:rightLeg 1
+    3300110: character02:rightLeg 2
+    3300112: character02:spare
+    3300114: character02:spare 1
+    3300116: character02:spare 2
+    3300118: character03:bell
+    3300120: character03:head
+    3300122: character03:hero_body
+    3300124: character03:leftfeet
+    3300126: character03:leftLeg
+    3300128: character03:rightfeet
+    3300130: character03:rightLeg
+    3300132: character03:spare
+    3300134: character04:bell
+    3300136: character04:head
+    3300138: character04:hero_body
+    3300140: character04:leftfeet
+    3300142: character04:leftLeg
+    3300144: character04:rightfeet
+    3300146: character04:rightLeg
+    3300148: character04:spare
+    3300150: crystal
+    3300152: default
+    3300154: default 1
+    3300156: default 10
+    3300158: default 11
+    3300160: default 12
+    3300162: default 13
+    3300164: default 14
+    3300166: default 15
+    3300168: default 16
+    3300170: default 17
+    3300172: default 18
+    3300174: default 19
+    3300176: default 2
+    3300178: default 20
+    3300180: default 21
+    3300182: default 22
+    3300184: default 23
+    3300186: default 24
+    3300188: default 25
+    3300190: default 26
+    3300192: default 27
+    3300194: default 28
+    3300196: default 29
+    3300198: default 3
+    3300200: default 30
+    3300202: default 31
+    3300204: default 32
+    3300206: default 33
+    3300208: default 34
+    3300210: default 35
+    3300212: default 36
+    3300214: default 37
+    3300216: default 38
+    3300218: default 39
+    3300220: default 4
+    3300222: default 40
+    3300224: default 41
+    3300226: default 42
+    3300228: default 43
+    3300230: default 44
+    3300232: default 45
+    3300234: default 46
+    3300236: default 47
+    3300238: default 48
+    3300240: default 49
+    3300242: default 5
+    3300244: default 50
+    3300246: default 51
+    3300248: default 52
+    3300250: default 53
+    3300252: default 54
+    3300254: default 55
+    3300256: default 56
+    3300258: default 57
+    3300260: default 58
+    3300262: default 59
+    3300264: default 6
+    3300266: default 60
+    3300268: default 61
+    3300270: default 62
+    3300272: default 63
+    3300274: default 64
+    3300276: default 65
+    3300278: default 66
+    3300280: default 67
+    3300282: default 68
+    3300284: default 69
+    3300286: default 7
+    3300288: default 70
+    3300290: default 71
+    3300292: default 72
+    3300294: default 73
+    3300296: default 74
+    3300298: default 75
+    3300300: default 76
+    3300302: default 77
+    3300304: default 78
+    3300306: default 79
+    3300308: default 8
+    3300310: default 80
+    3300312: default 81
+    3300314: default 82
+    3300316: default 83
+    3300318: default 84
+    3300320: default 85
+    3300322: default 9
+    3300324: firstRobe_drop
+    3300326: front1
+    3300328: head
+    3300330: head 1
+    3300332: head 1 1
+    3300334: head 2
+    3300336: head 2 1
+    3300338: head 3
+    3300340: head 3 1
+    3300342: head 4
+    3300344: head 4 1
+    3300346: head 5
+    3300348: head 6
+    3300350: head 7
+    3300352: hero_body
+    3300354: hero_body 1
+    3300356: hero_body 1 1
+    3300358: hero_body 2
+    3300360: hero_body 3
+    3300362: hero_body 4
+    3300364: hero_body 5
+    3300366: hero_body 6
+    3300368: hero_body 7
+    3300370: Jaw
+    3300372: Jaw 1
+    3300374: Jaw 2
+    3300376: leftClaw
+    3300378: leftClaw 1
+    3300380: leftClaw 2
+    3300382: leftfeet
+    3300384: leftfeet 1
+    3300386: leftfeet 1 1
+    3300388: leftfeet 2
+    3300390: leftfeet 3
+    3300392: leftfeet 4
+    3300394: leftfeet 5
+    3300396: leftfeet 6
+    3300398: leftfeet 7
+    3300400: leftForeArm
+    3300402: leftForeArm 1
+    3300404: leftForeArm 2
+    3300406: leftLeg
+    3300408: leftLeg 1
+    3300410: leftLeg 1 1
+    3300412: leftLeg 2
+    3300414: leftLeg 2 1
+    3300416: leftLeg 3
+    3300418: leftLeg 3 1
+    3300420: leftLeg 4
+    3300422: leftLeg 4 1
+    3300424: leftLeg 5
+    3300426: leftLeg 6
+    3300428: leftLeg 7
+    3300430: leftSwing
+    3300432: leftSwing 1
+    3300434: leftSwing 2
+    3300436: lift
+    3300438: Lightbeam_Rays
+    3300440: Lightbeam_Rays 1
+    3300442: Lightbeam_Rays 2
+    3300444: littleMonster1
+    3300446: littleMonster2
+    3300448: littleMonster_hold
+    3300450: Mesh
+    3300452: Mesh1
+    3300454: Mesh2
+    3300456: Mesh3
+    3300458: Mesh4
+    3300460: pasted__chain
+    3300462: pasted__chain1
+    3300464: pasted__hand_lef
+    3300466: pasted__handRight
+    3300468: pasted__head
+    3300470: pasted__Jaw
+    3300472: pasted__leftClaw
+    3300474: pasted__leftForeArm
+    3300476: pasted__leftLeg
+    3300478: pasted__leftSwing
+    3300480: pasted__lift
+    3300482: pasted__littleMonster
+    3300484: pasted__pasted__chain
+    3300486: pasted__pasted__chain1
+    3300488: pasted__pasted__lift
+    3300490: pasted__pasted__lift1
+    3300492: pasted__pasted__swichButton
+    3300494: pasted__pasted__swichStick
+    3300496: pasted__pCube1
+    3300498: pasted__pCube2
+    3300500: pasted__pCube3
+    3300502: pasted__pCube4
+    3300504: pasted__pCube5
+    3300506: pasted__pCube6
+    3300508: pasted__pCube7
+    3300510: pasted__polySurface14
+    3300512: pasted__polySurface17
+    3300514: pasted__polySurface18
+    3300516: pasted__polySurface18 1
+    3300518: pasted__polySurface7
+    3300520: pasted__polySurface7 1
+    3300522: pasted__polySurface854
+    3300524: pasted__polySurface854 1
+    3300526: pasted__polySurface855
+    3300528: pasted__polySurface855 1
+    3300530: pasted__pPyramid1
+    3300532: pasted__pPyramid10
+    3300534: pasted__rightClaw
+    3300536: pasted__rightForeArm
+    3300538: pasted__rightLeg
+    3300540: pasted__rightSwing
+    3300542: pasted__sting
+    3300544: pasted__swichButton
+    3300546: pasted__swichStick
+    3300548: pasted__tile 1
+    3300550: pasted__train
+    3300552: pasted__train1
+    3300554: pCube1
+    3300556: pCube1 1
+    3300558: pCube10
+    3300560: pCube11
+    3300562: pCube2
+    3300564: pCube20
+    3300566: pCube21
+    3300568: pCube21 1
+    3300570: pCube22
+    3300572: pCube22 1
+    3300574: pCube24
+    3300576: pCube25
+    3300578: pCube3
+    3300580: pCube3 1
+    3300582: pCube3 2
+    3300584: pCube33
+    3300586: pCube37
+    3300588: pCube4
+    3300590: pCube4 1
+    3300592: pCube4 2
+    3300594: pCube4 3
+    3300596: pCube40
+    3300598: pCube45
+    3300600: pCube45 1
+    3300602: pCube5
+    3300604: pCube5 1
+    3300606: pCube5 2
+    3300608: pCube62
+    3300610: pCube8
+    3300612: pCube9
+    3300614: Plane
+    3300616: Plane 1
+    3300618: polySurface1
+    3300620: polySurface1 1
+    3300622: polySurface10
+    3300624: polySurface11
+    3300626: polySurface11 1
+    3300628: polySurface12
+    3300630: polySurface13
+    3300632: polySurface14
+    3300634: polySurface2
+    3300636: polySurface2 1
+    3300638: polySurface2 2
+    3300640: polySurface3
+    3300642: polySurface3 1
+    3300644: polySurface524
+    3300646: polySurface525
+    3300648: polySurface7
+    3300650: polySurface7 1
+    3300652: polySurface7 1 1
+    3300654: polySurface7 2
+    3300656: polySurface7 3
+    3300658: polySurface7 4
+    3300660: polySurface7 5
+    3300662: polySurface8
+    3300664: polySurface854
+    3300666: polySurface9
+    3300668: rightClaw
+    3300670: rightClaw 1
+    3300672: rightClaw 2
+    3300674: rightfeet
+    3300676: rightfeet 1
+    3300678: rightfeet 1 1
+    3300680: rightfeet 2
+    3300682: rightfeet 3
+    3300684: rightfeet 4
+    3300686: rightfeet 5
+    3300688: rightfeet 6
+    3300690: rightfeet 7
+    3300692: rightForeArm
+    3300694: rightForeArm 1
+    3300696: rightForeArm 2
+    3300698: rightLeg
+    3300700: rightLeg 1
+    3300702: rightLeg 1 1
+    3300704: rightLeg 2
+    3300706: rightLeg 2 1
+    3300708: rightLeg 3
+    3300710: rightLeg 3 1
+    3300712: rightLeg 4
+    3300714: rightLeg 4 1
+    3300716: rightLeg 5
+    3300718: rightLeg 6
+    3300720: rightLeg 7
+    3300722: rightSwing
+    3300724: rightSwing 1
+    3300726: rightSwing 2
+    3300728: spare
+    3300730: spare 1
+    3300732: spare 1 1
+    3300734: spare 2
+    3300736: spare 3
+    3300738: spare 4
+    3300740: spare 5
+    3300742: spare 6
+    3300744: spare 7
+    3300746: stage
+    3300748: stage 1
+    3300750: static
+    3300752: swichButton
+    3300754: swichStick
+    3300756: train
+    3300758: train 1
+    4300000: default
+    4300002: default
+    4300004: polySurface2
+    4300006: polySurface3
+    4300008: pCube45
+    4300010: stage
+    4300012: hero_body
+    4300014: head
+    4300016: spare
+    4300018: bell
+    4300020: spareRibbon
+    4300022: leftLeg
+    4300024: leftfeet
+    4300026: rightLeg
+    4300028: rightfeet
+    4300030: default
+    4300032: crystal
+    4300034: default
+    4300036: default
+    4300038: static
+    4300040: pCube33
+    4300042: pCube21
+    4300044: pCube22
+    4300046: robe02
+    4300048: pCube62
+    4300050: pCube40
+    4300052: pCube37
+    4300054: robe01
+    4300056: firstRobe_drop
+    4300058: default
+    4300060: spareRibbon
+    4300062: hero_body
+    4300064: leftLeg
+    4300066: leftfeet
+    4300068: spare
+    4300070: head
+    4300072: bell
+    4300074: rightLeg
+    4300076: rightfeet
+    4300078: default
+    4300080: default
+    4300082: default
+    4300084: character02:spareRibbon
+    4300086: character02:hero_body
+    4300088: pCube1
+    4300090: character02:rightLeg
+    4300092: character02:rightfeet
+    4300094: character02:bell
+    4300096: character02:head
+    4300098: character02:spare
+    4300100: character02:leftLeg
+    4300102: character02:leftfeet
+    4300104: default
+    4300106: pasted__chain
+    4300108: pasted__chain1
+    4300110: character01:hero_body
+    4300112: character01:leftLeg
+    4300114: character01:leftfeet
+    4300116: character01:rightLeg
+    4300118: character01:rightfeet
+    4300120: character01:head
+    4300122: character01:spare
+    4300124: character01:bell
+    4300126: pasted__lift
+    4300128: character01:spareRibbon
+    4300130: swichButton
+    4300132: swichStick
+    4300134: default
+    4300136: spareRibbon
+    4300138: hero_body
+    4300140: polySurface7
+    4300142: chain
+    4300144: lift
+    4300146: pCube8
+    4300148: pCube5
+    4300150: Lightbeam_Rays
+    4300152: polySurface854
+    4300154: pCube3
+    4300156: polySurface525
+    4300158: pCube2
+    4300160: pCube1
+    4300162: polySurface524
+    4300164: hero_body
+    4300166: spareRibbon
+    4300168: default
+    4300170: train
+    4300172: pasted__swichButton
+    4300174: pasted__swichStick
+    4300176: pasted__pasted__lift1
+    4300178: character03:spareRibbon
+    4300180: character04:hero_body
+    4300182: character04:head
+    4300184: character04:bell
+    4300186: character04:rightLeg
+    4300188: character04:rightfeet
+    4300190: character04:spare
+    4300192: character04:leftLeg
+    4300194: character04:leftfeet
+    4300196: character04:spareRibbon
+    4300198: pasted__pasted__chain
+    4300200: character03:hero_body
+    4300202: character03:head
+    4300204: character03:rightLeg
+    4300206: character03:rightfeet
+    4300208: character03:leftLeg
+    4300210: character03:leftfeet
+    4300212: character03:spare
+    4300214: character03:bell
+    4300216: pasted__pasted__chain1
+    4300218: pasted__pasted__lift
+    4300220: pasted__littleMonster
+    4300222: pasted__rightLeg
+    4300224: pasted__polySurface7 1
+    4300226: pasted__leftLeg
+    4300228: pasted__polySurface7
+    4300230: character02:hero_body
+    4300232: character02:rightLeg
+    4300234: character02:rightfeet
+    4300236: character02:bell
+    4300238: character02:leftLeg
+    4300240: character02:leftfeet
+    4300242: character02:head
+    4300244: character02:spare
+    4300246: pasted__rightSwing
+    4300248: pasted__leftForeArm
+    4300250: pasted__leftClaw
+    4300252: pasted__rightForeArm
+    4300254: pasted__rightClaw
+    4300256: pasted__head
+    4300258: pasted__Jaw
+    4300260: pasted__leftSwing
+    4300262: polySurface11
+    4300264: polySurface8
+    4300266: chainLight:Mesh
+    4300268: Mesh
+    4300270: Mesh1
+    4300272: polySurface12
+    4300274: Mesh3
+    4300276: Mesh4
+    4300278: Mesh2
+    4300280: polySurface10
+    4300282: train
+    4300284: polySurface9
+    4300286: character01:spareRibbon
+    4300288: character01:hero_body
+    4300290: character01:bell
+    4300292: character01:spare
+    4300294: character01:leftLeg
+    4300296: character01:leftfeet
+    4300298: character01:head
+    4300300: character01:rightLeg
+    4300302: character01:rightfeet
+    4300304: character02:spareRibbon
+    4300306: Plane 1
+    4300308: spareRibbon
+    4300310: hero_body
+    4300312: leftLeg
+    4300314: leftfeet
+    4300316: spare
+    4300318: bell
+    4300320: rightLeg
+    4300322: rightfeet
+    4300324: head 3
+    4300326: spareRibbon 1
+    4300328: littleMonster_hold
+    4300330: rightSwing 2
+    4300332: rightForeArm 2
+    4300334: rightClaw 2
+    4300336: leftForeArm 2
+    4300338: leftClaw 2
+    4300340: leftSwing 2
+    4300342: head 4
+    4300344: hero_body 1
+    4300346: leftLeg 4
+    4300348: leftfeet 1
+    4300350: bell 1
+    4300352: spare 1
+    4300354: rightLeg 4
+    4300356: rightfeet 1
+    4300358: rightLeg 3
+    4300360: polySurface7 5
+    4300362: leftLeg 3
+    4300364: polySurface7 4
+    4300366: head 2
+    4300368: Jaw 2
+    4300370: littleMonster1
+    4300372: leftSwing
+    4300374: rightSwing
+    4300376: rightForeArm
+    4300378: rightClaw
+    4300380: leftForeArm
+    4300382: leftClaw
+    4300384: rightLeg 1
+    4300386: polySurface7 1
+    4300388: leftLeg 1
+    4300390: polySurface7
+    4300392: head
+    4300394: Jaw
+    4300396: littleMonster2
+    4300398: leftLeg 2
+    4300400: polySurface7 2
+    4300402: rightLeg 2
+    4300404: polySurface7 3
+    4300406: leftSwing 1
+    4300408: leftForeArm 1
+    4300410: leftClaw 1
+    4300412: rightForeArm 1
+    4300414: rightClaw 1
+    4300416: head 1
+    4300418: Jaw 1
+    4300420: rightSwing 1
+    4300422: spareRibbon
+    4300424: hero_body
+    4300426: pCube4
+    4300428: polySurface1
+    4300430: pasted__polySurface855
+    4300432: polySurface2
+    4300434: pasted__polySurface854
+    4300436: pasted__body
+    4300438: pasted__handRight
+    4300440: pasted__pPyramid10
+    4300442: pasted__polySurface18 1
+    4300444: pasted__sting
+    4300446: pasted__polySurface14
+    4300448: pasted__polySurface17
+    4300450: pasted__hand_lef
+    4300452: pasted__pPyramid1
+    4300454: pasted__polySurface18
+    4300456: pasted__tile 1
+    4300458: pasted__pasted__swichButton
+    4300460: pasted__pasted__swichStick
+    4300462: pasted__train1
+    4300464: pasted__train
+    4300466: character01:spareRibbon
+    4300468: character01:hero_body
+    4300470: character01:head
+    4300472: character01:bell
+    4300474: character01:spare
+    4300476: character01:leftLeg
+    4300478: character01:leftfeet
+    4300480: character01:rightLeg
+    4300482: character01:rightfeet
+    4300484: pasted__pCube3
+    4300486: pasted__pCube4
+    4300488: pasted__pCube6
+    4300490: pasted__pCube1
+    4300492: pasted__pCube2
+    4300494: pasted__pCube5
+    4300496: pasted__pCube7
+    4300498: character02:hero_body
+    4300500: character02:leftLeg
+    4300502: character02:leftfeet
+    4300504: character02:bell
+    4300506: character02:head
+    4300508: character02:spare
+    4300510: character02:rightLeg
+    4300512: character02:rightfeet
+    4300514: character02:spareRibbon
+    4300516: polySurface14
+    4300518: polySurface1
+    4300520: polySurface13
+    4300522: pCube10
+    4300524: polySurface11
+    4300526: front1
+    4300528: pCube25
+    4300530: pCube22
+    4300532: pCube20
+    4300534: pCube11
+    4300536: pCube21
+    4300538: pCube24
+    4300540: spareRibbon
+    4300542: hero_body
+    4300544: default
+    4300546: default
+    4300548: hero_body
+    4300550: spareRibbon
+    9500000: //RootNode
+    13700000: character01:spareRibbon
+    13700002: character01:spareRibbon 1
+    13700004: character01:spareRibbon 2
+    13700006: character02:spareRibbon
+    13700008: character02:spareRibbon 1
+    13700010: character02:spareRibbon 2
+    13700012: character03:spareRibbon
+    13700014: character04:spareRibbon
+    13700016: pasted__body
+    13700018: robe01
+    13700020: robe02
+    13700022: spareRibbon
+    13700024: spareRibbon 1
+    13700026: spareRibbon 1 1
+    13700028: spareRibbon 2
+    13700030: spareRibbon 3
+    13700032: spareRibbon 4
+    13700034: spareRibbon 5
+    13700036: spareRibbon 6
+    13700038: spareRibbon 7
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
